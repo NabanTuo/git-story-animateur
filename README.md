@@ -1,7 +1,7 @@
 # git-story-animateur
 🐺 Kit animateur — Atelier Les 3 Petits Cochons x GitHub [PRIVÉ]
 
-Repo privé de Naban — kit complet pour animer l'atelier Git Story.
+Repo privé de l'animateur du jeu — kit complet pour animer l'atelier Git Story.
 
 Contient :
 - Le déroulé minute par minute
